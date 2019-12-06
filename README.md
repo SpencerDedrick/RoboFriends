@@ -1,2 +1,2 @@
 # RoboFriends
-Simple app using JSON API and REACT
+Simple app made using NODEJS, NPM, JSON, an API, and REACT.
